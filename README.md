@@ -41,7 +41,7 @@
 </p>
 
 **Languages & Tools:**  
-C++17/20 · Python · HTML · CSS · JavaScript · SQL · Git/GitHub · Linux · Bash · UML  
+C++17/20 · Python · HTML · CSS · JavaScript · SQL · Git/GitHub · Linux · Bash · UML · Visual Studio Code
 
 ---
 
